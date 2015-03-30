@@ -1,5 +1,6 @@
 # 个人前端工程师开发工具记录
 
+标签（空格分隔）： 前端 工具 总结
 ------
 我们前端,每个人都有自己的开发工作环境,工具等,所以我写了这一篇文章,为自己方便把自己常用的**`前端工具`**记录下来,以便到时候在新的电脑上可以快速搭建自己熟悉的工作环境和使用自己熟悉的工具,同时可能也会对你有少少的帮助吧!
 
@@ -92,6 +93,8 @@
 > * [智图(多种图片压缩)][56]
 > * [雪碧图坐标查询][57]
 > * [cssanimate动画制作工具][58]
+> * [在线切图工具][59] (最近找到的,不知道如何,欢迎大家测试)
+> * [配色方案][60](美工的工具)
 
 ##gulp常用插件
 
@@ -110,19 +113,19 @@
 > * 更改提醒                    （gulp-notify） //我也没用过
 > * 清除文件                    （del）
 > * 替换内容,需自定义范围内容,支持正则[常用于替换上线后的js,css文件路径]                    （gulp-replace）
-> * 同上,更加智能 ([gulp-rev-collector][59])
-> * 智图图片处理插件     ([gulp-imageisux][60])
-> * 将文件转成utf8编码的gulp插件([gulp-utf8-convert][61])
-> * 合并按模块引入的html文件([gulp-content-includer][62])
-> * 压缩html ([gulp-minify-html][63])
+> * 同上,更加智能 ([gulp-rev-collector][61])
+> * 智图图片处理插件     ([gulp-imageisux][62])
+> * 将文件转成utf8编码的gulp插件([gulp-utf8-convert][63])
+> * 合并按模块引入的html文件([gulp-content-includer][64])
+> * 压缩html ([gulp-minify-html][65])
 
 ------
 
 再一次感谢您花费时间阅读这篇文章,如果你有更好的工具,可以给我留言,其他资料还在整理当中,感谢你的阅读!
 
-作者 [@黑色技术][64]     
+作者 [@黑色技术][66]     
 2015 年 3月 15日    
-更新时间: 2015 年 3月 25日
+更新时间: 2015 年 3月 30日
 
 
   [1]: https://nodejs.org/download/
@@ -183,9 +186,11 @@
   [56]: http://image.tencent.com/
   [57]: http://www.spritecow.com/
   [58]: http://cssanimate.com/
-  [59]: https://github.com/shonny-ua/gulp-rev-collector
-  [60]: https://www.npmjs.com/package/gulp-imageisux
-  [61]: http://segmentfault.com/blog/paopao/1190000000763005
-  [62]: http://segmentfault.com/blog/paopao/1190000001500298
-  [63]: https://www.npmjs.com/package/gulp-minify-html
-  [64]: http://weibo.com/yyman001
+  [59]: http://card.qdsay.com/
+  [60]: http://card.qdsay.com/
+  [61]: https://github.com/shonny-ua/gulp-rev-collector
+  [62]: https://www.npmjs.com/package/gulp-imageisux
+  [63]: http://segmentfault.com/blog/paopao/1190000000763005
+  [64]: http://segmentfault.com/blog/paopao/1190000001500298
+  [65]: https://www.npmjs.com/package/gulp-minify-html
+  [66]: http://weibo.com/yyman001
