@@ -2,12 +2,13 @@
 
 标签（空格分隔）： 前端 工具 总结
 ------
+[github地址](https://github.com/yyman001/web_tools)
 我们前端,每个人都有自己的开发工作环境,工具等,所以我写了这一篇文章,为自己方便把自己常用的**`前端工具`**记录下来,以便到时候在新的电脑上可以快速搭建自己熟悉的工作环境和使用自己熟悉的工具,同时可能也会对你有少少的帮助吧!
 
 前端环境软件安装
-> *  [node.js][2]  很多东西都需要它
-> *  [npm][3] , [cnpm][4] , [spm][5] 安装可以更换淘宝的安装包地址([淘宝镜像][6])
-> *  [Ruby][7](git依赖) , [msysgit][8] / [SourceTree][9][win7以上]
+> *  [node.js][1]  很多东西都需要它
+> *  [npm][2] , [cnpm][3] , [spm][4] 安装可以更换淘宝的安装包地址([淘宝镜像][5])
+> *  [Ruby][6](git依赖) , [msysgit][7] / [TortoiseGit][8] / [SourceTree][9][win7以上]
 > *  [gulp][10] 下面会列出常用插件 , [ F.I.S (百度前端工具框架)][11]
 > *  [sass][12] [教程][13]/ [less][14]
 > * `git`还有另外一个工具(在xp,win7上可用还是图形的哦,还有文章) [点我][15]
@@ -37,6 +38,18 @@
 > * FlashFXP (ftp上传工具)
 > * Regex Match Tracer 2.1 (正则工具)
 > * [SETUNA2][34] (图片裁剪对比)
+> * [Markdown Pad 2][35] (写Markdown格式文档必备的软件,我文章是用在线版)
+> * [Winmerge][36] 开源的文件比较工具(如果你不能使用Beyond Compare)
+> * [Expresso][37]是一个.NET版本的正则表达式编辑器。可以测试你的正则表达式。
+
+页面性能分析工具(比较重要就不分类,直接一个大类)
+> * [gtmetrix 网站性能分析 - 推荐][38] 不想用插件工具就直接访问网页吧
+> * [WebPagetest][39] 一款非常优秀的网页前端性能测试工具 [国外在线地址][40] [国内阿里在线地址][41]
+> * 谷歌插件 [PageSpeed][42] (页面性能检测优化 - 我自己测试卡到一半?我浏览器逗比?)
+> * 谷歌插件 [Google Web Tracing Framework][43] (持移动、PC，性能分析的神器,又一个鸡文,反正我是不懂怎么用~)
+> * 火狐请参考 `YSlow`
+> * [web应用性能检测][44]-百度只支持移动端页面
+> * [性能检测工具Tracker.js][45] - 他的谷歌插件, `WEB前端助手(FeHelper)` 
 
 火狐浏览器插件 
 > * Firebug 
@@ -48,53 +61,58 @@
 > * FireRainbow js语法高亮
 > * HtmlValidator html文档标准检测
 > * NoScript 控制页面和浏览器js
-> * [FireGestures][35] 用鼠标手势命令
-> * [Adblock Edge][36] 广告过滤
-> * webDeveloper1.2.2-(zh-cn) 中文版,[点我][37]
+> * [FireGestures][46] 用鼠标手势命令
+> * [Adblock Edge][47] 广告过滤
+> * webDeveloper1.2.2-(zh-cn) 中文版,[点我][48]
 
 除了最后一个网上可能找不到中文版
 
 谷歌浏览器插件 --用到谷歌插件其实很少(其实我自己用的蛮多),为了方便,因为谷歌插件下载很多问题,我直接发到网盘,有需要的可以自己下载(360,猎豹应用市场也有好多应用)
-> * [Web Developer][38] (居然被我找到谷歌版的,不过是英文的,不错了)
-> * [Window Resizer][39] (允许你快速调整浏览器窗口分辨率)
-> * [CSSViewer][40] (浮动面板简单显示CSS属性)
-> * [Wappalyze][41] (分析网站使用什么技术,优化的时候可以看人家网站使用什么技术)
-> * [IE Tab][42] (直接在Chrome中使用IE渲染引擎模仿IE,IE6、IE7、IE8和IE9,扩展目前仅适用于Windows系统,感觉有点不靠谱)
-> * [Clear Cache][43](能让你从工具栏中清除缓存)
-> * [Image Downloader][44] (批量下载图片)
+
+> * [Web Developer][49] (居然被我找到谷歌版的,不过是英文的,不错了)
+> * [Window Resizer][50] (允许你快速调整浏览器窗口分辨率)
+> * [CSSViewer][51] (浮动面板简单显示CSS属性)
+> * [Wappalyze][52] (分析网站使用什么技术,优化的时候可以看人家网站使用什么技术)
+> * [IE Tab][53] (直接在Chrome中使用IE渲染引擎模仿IE,IE6、IE7、IE8和IE9,扩展目前仅适用于Windows系统,感觉有点不靠谱)
+> * [Clear Cache][54](能让你从工具栏中清除缓存)
+> * [Image Downloader][55] (批量下载图片)
 > * 谷歌加速插件 替换一些需要翻墙才能链接的js替换为国内链接
 > * JetBrains IDE Suport (配合WS 在浏览器同步刷新,似乎在谷歌高版本已经无效,如果你不使用ws,可以配合gulp的插件,也可以实现同步更新)
-> * [ReRes][45] 开发的时候替换测试路径为本地,实际是上线后的地址
+> * [ReRes][56] 开发的时候替换测试路径为本地,实际是上线后的地址
 > * Enable Copy 去除右键限制
 > * JSON View 查看json格式数据
 > * WEB前端助手(FeHelper)_v5.8 
 > * 有道云笔记网页剪报 (保存页面到有道笔记本)
 > * Firebug Lite 谷歌用火狐插件(哈哈,开发者用火狐提供的ie火狐js搞的吧)
-> * [网址转二维码][46] (手机测试中有用,扫描就打开测试地址了)
+> * [网址转二维码][57] (手机测试中有用,扫描就打开测试地址了)
 > * ScriptSafe汉化版 (可以控制页面的js脚本)
 > * Word Count 是一款用来统计选中网页的字数，支持中文的扩展。
 
-建议访问 [360云盘共享][47] 文件多,有点乱,自己翻  
+建议访问 [360云盘共享][58] 文件多,有点乱,自己翻  
 访问密码 a505
 
 其他软件工具
-> * [Flux][48] 调整屏幕亮度,暖色调
-> * [ADSafe][49] 过滤广告
-> * [Everything][50] 快速查询
-> * [Wise Registry Cleaner][51] 注册表清理
-> * [Clover][52] 让你的Windows资源管理器拥有像谷歌浏览器一样好用的多标签页
-> * [360云盘][53] 同步数据文件
-> * [有道云笔记][54] 协作同步开发
+
+> * [Flux][59] 调整屏幕亮度,暖色调
+> * [ADSafe][60] 过滤广告
+> * [Everything][61] 快速查询
+> * [Wise Registry Cleaner][62] 注册表清理
+> * [Clover][63] 让你的Windows资源管理器拥有像谷歌浏览器一样好用的多标签页
+> * [360云盘][64] 同步数据文件
+> * [有道云笔记][65] 协作同步开发
 > * Proxy SwitchySharp 代理工具,翻墙用的,需要自己找账号信息填写哦
 
 ####其他一些网上工具
-> * [中国开源在线工具][55]
-> * [熊猫png压缩][56]
-> * [智图(多种图片压缩)][57]
-> * [雪碧图坐标查询][58]
-> * [cssanimate动画制作工具][59]
-> * [在线切图工具][60] (最近找到的,不知道如何,欢迎大家测试)
-> * [配色方案][61](美工的工具)
+
+> * [中国开源在线工具][66]
+> * [熊猫png压缩][67]
+> * [智图(多种图片压缩)][68]
+> * [雪碧图坐标查询][69]
+> * [cssanimate动画制作工具][70]
+> * [在线切图工具][71] (最近找到的,不知道如何,欢迎大家测试)
+> * [配色方案][72](美工的工具)
+> * [在线正则regex pal][73]
+> * [CSS3/HTML5/SVG 兼容性查询表][74]
 
 ##gulp常用插件
 
@@ -113,42 +131,45 @@
 > * 更改提醒                    （gulp-notify） //我也没用过
 > * 清除文件                    （del）
 > * 替换内容,需自定义范围内容,支持正则[常用于替换上线后的js,css文件路径]                    （gulp-replace）
-> * 同上,更加智能 ([gulp-rev-collector][62])
-> * 智图图片处理插件     ([gulp-imageisux][63])
-> * 将文件转成utf8编码的gulp插件([gulp-utf8-convert][64])
-> * 合并按模块引入的html文件([gulp-content-includer][65])
-> * 压缩html ([gulp-minify-html][66])
+> * 同上,更加智能 ([gulp-rev-collector][75])
+> * 智图图片处理插件     ([gulp-imageisux][76])
+> * 将文件转成utf8编码的gulp插件([gulp-utf8-convert][77])
+> * 合并按模块引入的html文件([gulp-content-includer][78])
+> * 压缩html ([gulp-minify-html][79])
 
 ##帮助文档
-> * [css手册][67] 在线(里面可以下载,感谢作者:飘零雾雨)
-> * [jQuery手册][68] ，　[其他版本][69] 
-> * [Zepto手册][70]
-> * [Less.js 中文文档][71]
-> * [Bootstrap 中文文档][72]
-> * [Underscore.js (1.8.2) 中文文档][73]
-> * [Backbone.js(1.1.2) API中文文档][74]
-> * [其他在线手册][75] 自己看吧,应该有的都有了
+> * [css手册][80] 在线(里面可以下载,感谢作者:飘零雾雨)
+> * [jQuery手册][81] ，　[其他版本][82] 
+> * [Zepto手册][83]
+> * [Less.js 中文文档][84]
+> * [Bootstrap 中文文档][85]
+> * [Underscore.js (1.8.2) 中文文档][86]
+> * [Backbone.js(1.1.2) API中文文档][87]
+> * [其他在线手册][88] 自己看吧,应该有的都有了
 
 ##谷歌搜索地址(不用翻墙)
-> * [地址1][76] [地址2][77] [地址3][78]
+> * [地址1][89] [地址2][90] [地址3][91]
 
 ------
 
 再一次感谢您花费时间阅读这篇文章,如果你有更好的工具,可以给我留言,其他资料还在整理当中,感谢你的阅读!
 
-作者 [@黑色技术][79]     
+作者 [@黑色技术][92]     
 2015 年 3月 15日    
-更新时间: 2015 年 4月 1日
+更新时间: 2015 年 4月 21日
 
 
+  
 
-  [2]: https://nodejs.org/download/
-  [3]: https://www.npmjs.com/
-  [4]: https://cnpmjs.org/
-  [5]: http://docs.spmjs.org/doc/
-  [6]: http://npm.taobao.org/
-  [7]: https://www.ruby-lang.org/zh_cn/downloads/
-  [8]: https://msysgit.github.io/
+
+  [1]: https://nodejs.org/download/
+  [2]: https://www.npmjs.com/
+  [3]: https://cnpmjs.org/
+  [4]: http://docs.spmjs.org/doc/
+  [5]: http://npm.taobao.org/
+  [6]: https://www.ruby-lang.org/zh_cn/downloads/
+  [7]: https://msysgit.github.io/
+  [8]: http://download.tortoisegit.org/
   [9]: http://www.sourcetreeapp.com/
   [10]: http://gulpjs.com/
   [11]: http://fis.baidu.com/
@@ -175,48 +196,61 @@
   [32]: http://pan.baidu.com/s/1pJFmnAN
   [33]: http://www.cssforest.org/blog/index.php?id=129
   [34]: http://www.clearunit.com/clearup/setuna2/
-  [35]: http://www.xuldev.org/firegestures/
-  [36]: https://bitbucket.org/adstomper/adblockedge/downloads
-  [37]: http://pan.baidu.com/s/1pJFmnAN#path=%252F%25E5%2589%258D%25E7%25AB%25AF%25E5%25B7%25A5%25E5%2585%25B7%252F%25E7%2581%25AB%25E7%258B%2590%25E6%258F%2592%25E4%25BB%25B6
-  [38]: https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
-  [39]: https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en%20
-  [40]: https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en
-  [41]: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en%20
-  [42]: https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en%20
-  [43]: https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en%20
-  [44]: https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj%20
-  [45]: https://github.com/hanan198501/ReRes
-  [46]: https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/ajaomcmkalmeeahjfdklkcjbljhbokjl?utm_source=chrome-ntp-icon
-  [47]: http://yunpan.cn/cZdfChwFmEpYF
-  [48]: http://www.iplaysoft.com/flux.html
-  [49]: http://www.ad-safe.com/
-  [50]: http://www.voidtools.com/
-  [51]: http://www.wisecleaner.com/download.html
-  [52]: http://clover.softonic.cn/
-  [53]: http://yunpan.360.cn/
-  [54]: http://note.youdao.com/
-  [55]: http://tool.oschina.net/
-  [56]: https://tinypng.com/
-  [57]: http://image.tencent.com/
-  [58]: http://www.spritecow.com/
-  [59]: http://cssanimate.com/
-  [60]: http://card.qdsay.com/
-  [61]: http://card.qdsay.com/
-  [62]: https://github.com/shonny-ua/gulp-rev-collector
-  [63]: https://www.npmjs.com/package/gulp-imageisux
-  [64]: http://segmentfault.com/blog/paopao/1190000000763005
-  [65]: http://segmentfault.com/blog/paopao/1190000001500298
-  [66]: https://www.npmjs.com/package/gulp-minify-html
-  [67]: http://css.doyoe.com/
-  [68]: http://hemin.cn/jq/
-  [69]: http://jquery.js-ku.com/
-  [70]: http://www.css88.com/doc/zeptojs_api/
-  [71]: http://www.css88.com/doc/less/
-  [72]: http://bootstrap.css88.com/
-  [73]: http://www.css88.com/doc/underscore/
-  [74]: http://www.css88.com/doc/backbone/
-  [75]: http://www.css88.com/jqueryapi
-  [76]: http://www.clonegoogle.com/?gws_rd=ssl
-  [77]: http://ggss.so/
-  [78]: http://www.gfsswy.com/
-  [79]: http://weibo.com/yyman001
+  [35]: http://markdownpad.com/
+  [36]: http://winmerge.org/
+  [37]: http://www.ultrapico.com/Expresso.htm
+  [38]: http://gtmetrix.com/
+  [39]: https://github.com/WPO-Foundation/webpagetest
+  [40]: http://www.webpagetest.org/
+  [41]: http://alibench.com/
+  [42]: https://developers.google.com/speed/pagespeed/insights_extensions
+  [43]: http://google.github.io/tracing-framework/
+  [44]: http://developer.baidu.com/apm/index
+  [45]: http://ucren.com/tracker/docs/#quickstart
+  [46]: http://www.xuldev.org/firegestures/
+  [47]: https://bitbucket.org/adstomper/adblockedge/downloads
+  [48]: http://pan.baidu.com/s/1pJFmnAN#path=%252F%25E5%2589%258D%25E7%25AB%25AF%25E5%25B7%25A5%25E5%2585%25B7%252F%25E7%2581%25AB%25E7%258B%2590%25E6%258F%2592%25E4%25BB%25B6
+  [49]: https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+  [50]: https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en%20
+  [51]: https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en
+  [52]: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en%20
+  [53]: https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en%20
+  [54]: https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en%20
+  [55]: https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj%20
+  [56]: https://github.com/hanan198501/ReRes
+  [57]: https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/ajaomcmkalmeeahjfdklkcjbljhbokjl?utm_source=chrome-ntp-icon
+  [58]: http://yunpan.cn/cZdfChwFmEpYF
+  [59]: http://www.iplaysoft.com/flux.html
+  [60]: http://www.ad-safe.com/
+  [61]: http://www.voidtools.com/
+  [62]: http://www.wisecleaner.com/download.html
+  [63]: http://clover.softonic.cn/
+  [64]: http://yunpan.360.cn/
+  [65]: http://note.youdao.com/
+  [66]: http://tool.oschina.net/
+  [67]: https://tinypng.com/
+  [68]: http://image.tencent.com/
+  [69]: http://www.spritecow.com/
+  [70]: http://cssanimate.com/
+  [71]: http://card.qdsay.com/
+  [72]: http://card.qdsay.com/
+  [73]: http://regexpal.com/
+  [74]: http://caniuse.com/
+  [75]: https://github.com/shonny-ua/gulp-rev-collector
+  [76]: https://www.npmjs.com/package/gulp-imageisux
+  [77]: http://segmentfault.com/blog/paopao/1190000000763005
+  [78]: http://segmentfault.com/blog/paopao/1190000001500298
+  [79]: https://www.npmjs.com/package/gulp-minify-html
+  [80]: http://css.doyoe.com/
+  [81]: http://hemin.cn/jq/
+  [82]: http://jquery.js-ku.com/
+  [83]: http://www.css88.com/doc/zeptojs_api/
+  [84]: http://www.css88.com/doc/less/
+  [85]: http://bootstrap.css88.com/
+  [86]: http://www.css88.com/doc/underscore/
+  [87]: http://www.css88.com/doc/backbone/
+  [88]: http://www.css88.com/jqueryapi
+  [89]: http://www.clonegoogle.com/?gws_rd=ssl
+  [90]: http://ggss.so/
+  [91]: http://www.gfsswy.com/
+  [92]: http://weibo.com/yyman001
