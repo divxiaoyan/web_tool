@@ -21,7 +21,7 @@
 
 常用工具列表：
 
-> * [WebStrom][18]  我个人比较喜欢这个软件,功能非常强大已经更新到第九版([点我下载注册机和配色方案][19]) ,[sublime_text][20]([文章介绍][21]),[HBuilder][22]
+> * [WebStrom][18]  我个人比较喜欢这个软件,功能非常强大已经更新到第10版([点我下载注册机和配色方案][19]) ,[sublime_text][20]([文章介绍][21]),[HBuilder][22]
 > * [cmder(类似cmd的命令提示符,有自带git版本)][23]  [配置教程][24]
 > * [koala考拉][25](Less、Sass、Compass、CoffeeScript编译) ----免费
 > * [Mark 马克鳗][26] (设计图测量) 
@@ -112,7 +112,10 @@
 > * [在线切图工具][71] (最近找到的,不知道如何,欢迎大家测试)
 > * [配色方案][72](美工的工具)
 > * [在线正则regex pal][73]
-> * [CSS3/HTML5/SVG 兼容性查询表][74]
+> * [正则图形显示][74]
+> * [CSS3/HTML5/SVG 兼容性查询表][75]
+> * [WhatTheFont-字体查询1][76] [求字体网-字体查询2][77] [What Font is-字体查询3][78]
+
 
 ##gulp常用插件
 
@@ -131,32 +134,32 @@
 > * 更改提醒                    （gulp-notify） //我也没用过
 > * 清除文件                    （del）
 > * 替换内容,需自定义范围内容,支持正则[常用于替换上线后的js,css文件路径]                    （gulp-replace）
-> * 同上,更加智能 ([gulp-rev-collector][75])
-> * 智图图片处理插件     ([gulp-imageisux][76])
-> * 将文件转成utf8编码的gulp插件([gulp-utf8-convert][77])
-> * 合并按模块引入的html文件([gulp-content-includer][78])
-> * 压缩html ([gulp-minify-html][79])
+> * 同上,更加智能 ([gulp-rev-collector][79])
+> * 智图图片处理插件     ([gulp-imageisux][80])
+> * 将文件转成utf8编码的gulp插件([gulp-utf8-convert][81])
+> * 合并按模块引入的html文件([gulp-content-includer][82])
+> * 压缩html ([gulp-minify-html][83])
 
 ##帮助文档
-> * [css手册][80] 在线(里面可以下载,感谢作者:飘零雾雨)
-> * [jQuery手册][81] ，　[其他版本][82] 
-> * [Zepto手册][83]
-> * [Less.js 中文文档][84]
-> * [Bootstrap 中文文档][85]
-> * [Underscore.js (1.8.2) 中文文档][86]
-> * [Backbone.js(1.1.2) API中文文档][87]
-> * [其他在线手册][88] 自己看吧,应该有的都有了
+> * [css手册][84] 在线(里面可以下载,感谢作者:飘零雾雨)
+> * [jQuery手册][85] ，　[其他版本][86] 
+> * [Zepto手册][87]
+> * [Less.js 中文文档][88]
+> * [Bootstrap 中文文档][89]
+> * [Underscore.js (1.8.2) 中文文档][90]
+> * [Backbone.js(1.1.2) API中文文档][91]
+> * [其他在线手册][92] 自己看吧,应该有的都有了
 
 ##谷歌搜索地址(不用翻墙)
-> * [地址1][89] [地址2][90] [地址3][91]
+> * [地址1][93] [地址2][94] [地址3][95]
 
 ------
 
 再一次感谢您花费时间阅读这篇文章,如果你有更好的工具,可以给我留言,其他资料还在整理当中,感谢你的阅读!
 
-作者 [@黑色技术][92]     
+作者 [@黑色技术][96]     
 2015 年 3月 15日    
-更新时间: 2015 年 4月 21日
+更新时间: 2015 年 4月 30日
 
 
   
@@ -235,22 +238,26 @@
   [71]: http://card.qdsay.com/
   [72]: http://card.qdsay.com/
   [73]: http://regexpal.com/
-  [74]: http://caniuse.com/
-  [75]: https://github.com/shonny-ua/gulp-rev-collector
-  [76]: https://www.npmjs.com/package/gulp-imageisux
-  [77]: http://segmentfault.com/blog/paopao/1190000000763005
-  [78]: http://segmentfault.com/blog/paopao/1190000001500298
-  [79]: https://www.npmjs.com/package/gulp-minify-html
-  [80]: http://css.doyoe.com/
-  [81]: http://hemin.cn/jq/
-  [82]: http://jquery.js-ku.com/
-  [83]: http://www.css88.com/doc/zeptojs_api/
-  [84]: http://www.css88.com/doc/less/
-  [85]: http://bootstrap.css88.com/
-  [86]: http://www.css88.com/doc/underscore/
-  [87]: http://www.css88.com/doc/backbone/
-  [88]: http://www.css88.com/jqueryapi
-  [89]: http://www.clonegoogle.com/?gws_rd=ssl
-  [90]: http://ggss.so/
-  [91]: http://www.gfsswy.com/
-  [92]: http://weibo.com/yyman001
+  [74]: http://jex.im/regulex/#!embed=false&flags=&re=%5E%28a%7Cb%29*?$
+  [75]: http://caniuse.com/
+  [76]: http://www.myfonts.com/WhatTheFont/
+  [77]: http://www.qiuziti.com/
+  [78]: http://www.whatfontis.com/
+  [79]: https://github.com/shonny-ua/gulp-rev-collector
+  [80]: https://www.npmjs.com/package/gulp-imageisux
+  [81]: http://segmentfault.com/blog/paopao/1190000000763005
+  [82]: http://segmentfault.com/blog/paopao/1190000001500298
+  [83]: https://www.npmjs.com/package/gulp-minify-html
+  [84]: http://css.doyoe.com/
+  [85]: http://hemin.cn/jq/
+  [86]: http://jquery.js-ku.com/
+  [87]: http://www.css88.com/doc/zeptojs_api/
+  [88]: http://www.css88.com/doc/less/
+  [89]: http://bootstrap.css88.com/
+  [90]: http://www.css88.com/doc/underscore/
+  [91]: http://www.css88.com/doc/backbone/
+  [92]: http://www.css88.com/jqueryapi
+  [93]: http://www.clonegoogle.com/?gws_rd=ssl
+  [94]: http://ggss.so/
+  [95]: http://www.gfsswy.com/
+  [96]: http://weibo.com/yyman001
