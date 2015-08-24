@@ -14,7 +14,7 @@
 > * `git`还有另外一个工具(在xp,win7上可用还是图形的哦,还有文章) [点我][15]
 
 安装顺序
-先安装`node` --> `npm ` --> `gulp` 
+先安装`node` --> `npm ` --> `gulp`
 [使用 gulp 构建工程][16]
 先安装`ruby` --> `git`,`sass`,`compass`
 [window 安装 sass compass 记录][17]
@@ -24,7 +24,7 @@
 > * [WebStrom][18]  我个人比较喜欢这个软件,功能非常强大已经更新到第10版([点我下载注册机和配色方案][19]) ,[sublime_text][20]([文章介绍][21]),[HBuilder][22]
 > * [cmder(类似cmd的命令提示符,有自带git版本)][23]  [配置教程][24]
 > * [koala考拉][25](Less、Sass、Compass、CoffeeScript编译) ----免费
-> * [Mark 马克鳗][26] (设计图测量) 
+> * [Mark 马克鳗][26] (设计图测量)
 > * [小苹果服务器][27](手机调试专用win7以上)
 > * [F5][28] 自动刷新浏览器
 > * [Notepad++][29] 不解释
@@ -49,10 +49,10 @@
 > * 谷歌插件 [Google Web Tracing Framework][43] (持移动、PC，性能分析的神器,又一个鸡文,反正我是不懂怎么用~)
 > * 火狐请参考 `YSlow`
 > * [web应用性能检测][44]-百度只支持移动端页面
-> * [性能检测工具Tracker.js][45] - 他的谷歌插件, `WEB前端助手(FeHelper)` 
+> * [性能检测工具Tracker.js][45] - 他的谷歌插件, `WEB前端助手(FeHelper)`
 
-火狐浏览器插件 
-> * Firebug 
+火狐浏览器插件
+> * Firebug
 > * YSlow 性能检测
 > * JSONView 在页面查看那json数据
 > * CSSUsage 检测无效css
@@ -66,7 +66,7 @@
 > * webDeveloper1.2.2-(zh-cn) 中文版,[点我][48]
 
 除了最后一个网上可能找不到中文版
-
+[Google 镜像站搜集](https://github.com/sxyx2008/DevArticles/issues/99)
 谷歌浏览器插件 --用到谷歌插件其实很少(其实我自己用的蛮多),为了方便,因为谷歌插件下载很多问题,我直接发到网盘,有需要的可以自己下载(360,猎豹应用市场也有好多应用)
 
 > * [Web Developer][49] (居然被我找到谷歌版的,不过是英文的,不错了)
@@ -81,7 +81,7 @@
 > * [ReRes][56] 开发的时候替换测试路径为本地,实际是上线后的地址
 > * Enable Copy 去除右键限制
 > * JSON View 查看json格式数据
-> * WEB前端助手(FeHelper)_v5.8 
+> * WEB前端助手(FeHelper)_v5.8
 > * 有道云笔记网页剪报 (保存页面到有道笔记本)
 > * Firebug Lite 谷歌用火狐插件(哈哈,开发者用火狐提供的ie火狐js搞的吧)
 > * [网址转二维码][57] (手机测试中有用,扫描就打开测试地址了)
@@ -124,7 +124,7 @@
 > * 编译Map文件          (gulp-sourcemaps)
 > * 自动添加css前缀            （gulp-autoprefixer）
 > * 压缩css                    （gulp-minify-css）
-> * 压缩css使用的                gulp-mini-css[国产.配合清除沉余css插件后的压缩插件,跟上面的不一样哦] 
+> * 压缩css使用的                gulp-mini-css[国产.配合清除沉余css插件后的压缩插件,跟上面的不一样哦]
 > * js代码校验                  （gulp-jshint）
 > * 合并js文件                  （gulp-concat）
 > * 压缩js代码                  （gulp-uglify）
@@ -142,7 +142,7 @@
 
 ##帮助文档
 > * [css手册][84] 在线(里面可以下载,感谢作者:飘零雾雨)
-> * [jQuery手册][85] ，　[其他版本][86] 
+> * [jQuery手册][85] ，　[其他版本][86]
 > * [Zepto手册][87]
 > * [Less.js 中文文档][88]
 > * [Bootstrap 中文文档][89]
@@ -157,12 +157,12 @@
 
 再一次感谢您花费时间阅读这篇文章,如果你有更好的工具,可以给我留言,其他资料还在整理当中,感谢你的阅读!
 
-作者 [@黑色技术][96]     
-2015 年 3月 15日    
+作者 [@黑色技术][96]
+2015 年 3月 15日
 更新时间: 2015 年 4月 30日
 
 
-  
+
 
 
   [1]: https://nodejs.org/download/
