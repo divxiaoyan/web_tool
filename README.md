@@ -103,7 +103,9 @@
 > * Proxy SwitchySharp 代理工具,翻墙用的,需要自己找账号信息填写哦
 
 ####其他一些网上工具
-
+> * [使用GUI快速创建SVG path](http://anthonydugois.com/svg-path-builder/)
+> * [把CSS代码转成SASS的应用](http://css2sass.herokuapp.com/)
+> * [resizr 测试  CSS media queries 的轻量级应用-需要线上地址,没有线上地址,可以搞个coding-git](http://resizr.co/)
 > * [中国开源在线工具][66]
 > * [熊猫png压缩][67]
 > * [智图(多种图片压缩)][68]
@@ -129,6 +131,7 @@
 > * 合并js文件                  （gulp-concat）
 > * 压缩js代码                  （gulp-uglify）
 > * 压缩图片                    （gulp-imagemin）
+> * 雪碧图 (gulp.spritesmith) https://github.com/twolfson/gulp.spritesmith
 > * 自动刷新页面                 （gulp-livereload）//不建议配合WS一起用(WS的自动保存,然后你懂的,但如果你不是用less或者sass开发,还是建议使用的)
 > * 图片缓存，只有图片替换了才压缩  （gulp-cache） //我也没用过
 > * 更改提醒                    （gulp-notify） //我也没用过
