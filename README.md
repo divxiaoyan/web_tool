@@ -25,6 +25,7 @@
 > * [cmder(类似cmd的命令提示符,有自带git版本)][23]  [配置教程][24]
 > * [koala考拉][25](Less、Sass、Compass、CoffeeScript编译) ----免费
 > * [Mark 马克鳗][26] (设计图测量)
+> * [Assistor PS]() \(切图工具\)
 > * [小苹果服务器][27](手机调试专用win7以上)
 > * [F5][28] 自动刷新浏览器
 > * [Notepad++][29] 不解释
@@ -132,6 +133,7 @@
 > * 自动刷新页面                 （gulp-livereload）//不建议配合WS一起用(WS的自动保存,然后你懂的,但如果你不是用less或者sass开发,还是建议使用的)
 > * 图片缓存，只有图片替换了才压缩  （gulp-cache） //我也没用过
 > * 更改提醒                    （gulp-notify） //我也没用过
+> * 外链文件合并                  （gulp-htmlone）https://github.com/amfe/or.htmlone.gulp  //我也没用过
 > * 清除文件                    （del）
 > * 替换内容,需自定义范围内容,支持正则[常用于替换上线后的js,css文件路径]                    （gulp-replace）
 > * 同上,更加智能 ([gulp-rev-collector][79])
