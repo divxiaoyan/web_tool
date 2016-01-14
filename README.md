@@ -88,7 +88,7 @@
 > * [网址转二维码][57] (手机测试中有用,扫描就打开测试地址了)
 > * ScriptSafe汉化版 (可以控制页面的js脚本)
 > * Word Count 是一款用来统计选中网页的字数，支持中文的扩展。
-
+> * Chrono下载管理器(https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn)
 建议访问 [360云盘共享][58] 文件多,有点乱,自己翻  
 访问密码 a505
 
