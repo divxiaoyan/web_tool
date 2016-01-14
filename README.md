@@ -42,6 +42,8 @@
 > * [Markdown Pad 2][35] (写Markdown格式文档必备的软件,我文章是用在线版)
 > * [Winmerge][36] 开源的文件比较工具(如果你不能使用Beyond Compare)
 > * [Expresso][37]是一个.NET版本的正则表达式编辑器。可以测试你的正则表达式。
+> * [DocBlockr](http://pythonhackers.com/os/spadgos/sublime-jsdocs) Sublime Text 2/3-注释生成插件
+> * [JSDOC 注释文档生成工具](http://www.html-js.com/article/JSDOC-introduction-JSDOC-entry)
 
 页面性能分析工具(比较重要就不分类,直接一个大类)
 > * [gtmetrix 网站性能分析 - 推荐][38] 不想用插件工具就直接访问网页吧
