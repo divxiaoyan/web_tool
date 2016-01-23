@@ -27,6 +27,7 @@
 > * [Mark 马克鳗][26] (设计图测量)
 > * [Assistor PS]() \(切图工具\)
 > * [小苹果服务器][27](手机调试专用win7以上)
+> * [brower-sync 自动刷新页面-多端同步,支持gulp](http://www.browsersync.cn/)
 > * [F5][28] 自动刷新浏览器
 > * [Notepad++][29] 不解释
 > * Photoshop CS4/CS6 不解释,PS插件?建议去 [设计优][30]
