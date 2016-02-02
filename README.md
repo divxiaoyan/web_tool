@@ -126,7 +126,7 @@
 ##gulp常用插件
 
 整理了在自己工作当中常用的一些gulp 插件
-> * 编译Sass (gulp-ruby-sass)
+> * 编译Sass (gulp-ruby-sass || gulp-sass)
 > * 编译Map文件          (gulp-sourcemaps)
 > * 自动添加css前缀            （gulp-autoprefixer）
 > * 压缩css                    （gulp-minify-css）
@@ -134,6 +134,8 @@
 > * js代码校验                  （gulp-jshint）
 > * 合并js文件                  （gulp-concat）
 > * 压缩js代码                  （gulp-uglify）
+> * PreCSS预处理1--处理CSS优化   (cssnano)
+> * BASE64编码图片               (gulp-base64)
 > * 压缩图片                    （gulp-imagemin）
 > * 雪碧图 (gulp.spritesmith) https://github.com/twolfson/gulp.spritesmith
 > * 自动刷新页面                 （gulp-livereload）//不建议配合WS一起用(WS的自动保存,然后你懂的,但如果你不是用less或者sass开发,还是建议使用的)
@@ -167,7 +169,7 @@
 
 作者 [@黑色技术][96]
 2015 年 3月 15日
-更新时间: 2015 年 4月 30日
+更新时间: 2016 年 2月 2日
 
 
 
