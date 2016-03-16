@@ -72,7 +72,8 @@
 除了最后一个网上可能找不到中文版
 [Google 镜像站搜集](https://github.com/sxyx2008/DevArticles/issues/99)
 谷歌浏览器插件 --用到谷歌插件其实很少(其实我自己用的蛮多),为了方便,因为谷歌插件下载很多问题,我直接发到网盘,有需要的可以自己下载(360,猎豹应用市场也有好多应用)
-
+> * [Quick CSS 快速在 Chrome 开发环境检测 CSS 代码的规范性](http://ued.qunar.com/mobile/devtools/css-extensions/)
+> * [AlloyDesigner 嵌入式开发插件-详情自己看连接](http://alloyteam.github.io/AlloyDesigner/)
 > * [Web Developer][49] (居然被我找到谷歌版的,不过是英文的,不错了)
 > * [Window Resizer][50] (允许你快速调整浏览器窗口分辨率)
 > * [CSSViewer][51] (浮动面板简单显示CSS属性)
@@ -160,7 +161,7 @@
 > * [Backbone.js(1.1.2) API中文文档][91]
 > * [其他在线手册][92] 自己看吧,应该有的都有了
 
-##谷歌搜索地址(不用翻墙)
+##谷歌搜索地址(不用翻墙) http://www.googto.com/
 > * [地址1][93] [地址2][94] [地址3][95]
 
 ------
