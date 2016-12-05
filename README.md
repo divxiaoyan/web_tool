@@ -22,6 +22,7 @@
 常用工具列表：
 
 > * [WebStrom][18]  我个人比较喜欢这个软件,功能非常强大已经更新到第10版([点我下载注册机和配色方案][19]) ,[sublime_text][20]([文章介绍][21]),[HBuilder][22]
+> * [Shadowsocks 科学上网 带有一个免费账号 https://github.com/yyman001/software]   (https://github.com/shadowsocks/shadowsocks-windows)
 > * [cmder(类似cmd的命令提示符,有自带git版本)][23]  [配置教程][24]
 > * [koala考拉][25](Less、Sass、Compass、CoffeeScript编译) ----免费
 > * [Mark 马克鳗][26] (设计图测量)
@@ -159,6 +160,8 @@
 > * [Bootstrap 中文文档][89]
 > * [Underscore.js (1.8.2) 中文文档][90]
 > * [Backbone.js(1.1.2) API中文文档][91]
+> * [Vue.js 2.0 中文文档](https://cn.vuejs.org/v2/guide/)
+> * [avalon.js](http://avalonjs.coding.me/)
 > * [其他在线手册][92] 自己看吧,应该有的都有了
 
 ##谷歌搜索地址(不用翻墙) http://www.googto.com/
