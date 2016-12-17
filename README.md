@@ -47,6 +47,7 @@
 > * [DocBlockr](http://pythonhackers.com/os/spadgos/sublime-jsdocs) Sublime Text 2/3-注释生成插件
 > * [JSDOC 注释文档生成工具](http://www.html-js.com/article/JSDOC-introduction-JSDOC-entry)
 > * [如此简单的到达 PNG 无损压缩的极限](http://nullice.com/limitPNG/)
+> * [APNG Software 转APNG软件](http://littlesvr.ca/apng/)
 
 页面性能分析工具(比较重要就不分类,直接一个大类)
 > * [gtmetrix 网站性能分析 - 推荐][38] 不想用插件工具就直接访问网页吧
