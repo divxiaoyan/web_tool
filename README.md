@@ -26,6 +26,7 @@
 > * [cmder(类似cmd的命令提示符,有自带git版本)][23]  [配置教程][24]
 > * [koala考拉][25](Less、Sass、Compass、CoffeeScript编译) ----免费
 > * [Mark 马克鳗][26] (设计图测量)
+> * [PxCook 像素大厨 智能标注绝对可以解放双手了，强烈推荐。](http://www.fancynode.com.cn/pxcook)
 > * [Assistor PS]() \(切图工具\)
 > * [小苹果服务器][27](手机调试专用win7以上)
 > * [brower-sync 自动刷新页面-多端同步,支持gulp](http://www.browsersync.cn/)
