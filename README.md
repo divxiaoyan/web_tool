@@ -76,6 +76,7 @@
 除了最后一个网上可能找不到中文版
 [Google 镜像站搜集](https://github.com/sxyx2008/DevArticles/issues/99)
 谷歌浏览器插件 --用到谷歌插件其实很少(其实我自己用的蛮多),为了方便,因为谷歌插件下载很多问题,我直接发到网盘,有需要的可以自己下载(360,猎豹应用市场也有好多应用)
+> * [海淘访问助手-免费翻墙谷歌插件-强烈推荐](http://www.haitaojiasu.pw/)
 > * [Quick CSS 快速在 Chrome 开发环境检测 CSS 代码的规范性](http://ued.qunar.com/mobile/devtools/css-extensions/)
 > * [AlloyDesigner 嵌入式开发插件-详情自己看连接](http://alloyteam.github.io/AlloyDesigner/)
 > * [Web Developer][49] (居然被我找到谷歌版的,不过是英文的,不错了)
@@ -176,7 +177,7 @@
 
 作者 [@黑色技术][96]
 2015 年 3月 15日
-更新时间: 2016 年 2月 2日
+更新时间: 2017 年 2月 24日
 
 
 
