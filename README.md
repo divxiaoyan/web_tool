@@ -49,6 +49,9 @@
 > * [JSDOC 注释文档生成工具](http://www.html-js.com/article/JSDOC-introduction-JSDOC-entry)
 > * [如此简单的到达 PNG 无损压缩的极限](http://nullice.com/limitPNG/)
 > * [APNG Software 转APNG软件](http://littlesvr.ca/apng/)
+> * [iSparta 图片压缩](http://isparta.github.io/)
+> * [limitPNG 图片压缩](http://nullice.com/limitPNG/)
+> * [phpStudy php搭建环境,包含多个版本随便切换](http://www.phpstudy.net/a.php/211.html)
 
 页面性能分析工具(比较重要就不分类,直接一个大类)
 > * [gtmetrix 网站性能分析 - 推荐][38] 不想用插件工具就直接访问网页吧
@@ -77,6 +80,8 @@
 [Google 镜像站搜集](https://github.com/sxyx2008/DevArticles/issues/99)
 谷歌浏览器插件 --用到谷歌插件其实很少(其实我自己用的蛮多),为了方便,因为谷歌插件下载很多问题,我直接发到网盘,有需要的可以自己下载(360,猎豹应用市场也有好多应用)
 > * [海淘访问助手-免费翻墙谷歌插件-强烈推荐](http://www.haitaojiasu.pw/)
+> * [octotree 看github的时候生成项目tree 推荐](https://github.com/buunguyen/octotree)
+> * [Awesome Autocomplete for GitHub - github搜索异步查询结果](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd)
 > * [Quick CSS 快速在 Chrome 开发环境检测 CSS 代码的规范性](http://ued.qunar.com/mobile/devtools/css-extensions/)
 > * [AlloyDesigner 嵌入式开发插件-详情自己看连接](http://alloyteam.github.io/AlloyDesigner/)
 > * [Web Developer][49] (居然被我找到谷歌版的,不过是英文的,不错了)
@@ -154,6 +159,7 @@
 > * 智图图片处理插件     ([gulp-imageisux][80])
 > * 将文件转成utf8编码的gulp插件([gulp-utf8-convert][81])
 > * 合并按模块引入的html文件([gulp-content-includer][82])
+> * [提取html标记内容合并到指定位置 gulp-html-merge](https://github.com/yyman001/gulp-html-merge)
 > * 压缩html ([gulp-minify-html][83])
 
 ##帮助文档
@@ -177,7 +183,7 @@
 
 作者 [@黑色技术][96]
 2015 年 3月 15日
-更新时间: 2017 年 2月 24日
+更新时间: 2017 年 3月 10日
 
 
 
